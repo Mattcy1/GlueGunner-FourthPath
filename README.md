@@ -8,7 +8,7 @@
 
 <h1 align="center">Glue Gunner FourthPath</h1>
 
-This mod adds the Glue Gunner FourthPath
+This mod add the Glue Gunner FourthPath
 
 <h1 aling="left"><img alt="GitHub all releases" height="25" src="https://img.shields.io/github/downloads/Mattcy1/GlueGunner-FourthPath/total?label=Total%20Dowloads"></h1>
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/doombubbles/paths-plus-plus#readme)
